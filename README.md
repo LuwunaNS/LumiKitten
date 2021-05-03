@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinr-sharmon
 - 👀 I’m interested in making simple discord bots and music.
-- 🌱 I’m currently learning to code in NodeJS
+- 🌱 I’m currently learning to code in Python
 - 📫 My Discord username: vinr_sharmon#6154
 
 <!---
