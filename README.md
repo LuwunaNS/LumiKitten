@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vinr-sharmon
-- 👀 I’m interested in music and writing random scripts, becouse I'm to lazy to use a calculator (I know that writing a script isn't accually easeier than using calculator, calculators are just boring)
-- 🌱 I’m currently learning to code in Python
+- 👀 I’m interested in music and writing trash python scripts that never leave the alpha stage
 - 📫 My Discord username: vinr_sharmon#6154
 
 <!---
