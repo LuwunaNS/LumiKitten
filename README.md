@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinr-sharmon
-- 👀 I’m interested in music and writing trash python scripts that never leave the alpha stage
+- 👀 I’m interested in music and writing trash python scripts that never leave the alpha stage(most of them are now deleted) 
 - 📫 My Discord username: vinr_sharmon#6154
 
 <!---
