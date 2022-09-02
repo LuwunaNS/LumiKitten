@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinr-sharmon
+- 👋 Hi, I’m Luna
 - 👀 I’m interested in music and writing trash python scripts that never leave the alpha stage(most of them are now deleted) 
 - 📫 My Discord username: vinr_sharmon#1111
 
