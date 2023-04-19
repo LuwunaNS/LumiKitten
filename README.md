@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luna
 - 👀 I’m interested in music and writing trash python scripts that never leave the alpha stage(most of them are now deleted) 
-- 📫 My Discord username: vinr_sharmon#1111
+- 📫 My Discord username: Luwuna#1337
 
 <!---
 vinr-sharmon/vinr-sharmon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
